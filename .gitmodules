@@ -1,0 +1,3 @@
+[submodule "federalreserve.gov-consumer_finances"]
+	path = federalreserve.gov-consumer_finances
+	url = https://github.com/metatab-packages/federalreserve.gov-consumer_finances.git
